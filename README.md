@@ -261,4 +261,4 @@ For support, please contact:
 
 ---
 
-**Disclaimer**: MITR AI is designed to supplement, not replace, professional mental health care. Always consult with qualified healthcare providers for serious mental health concerns.
+**Disclaimer**: It is designed to supplement, not replace, professional mental health care. Always consult with qualified healthcare providers for serious mental health concerns.
