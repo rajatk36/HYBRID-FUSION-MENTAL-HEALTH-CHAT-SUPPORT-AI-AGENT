@@ -34,7 +34,7 @@ src/
 │   └── page.tsx                    # Main application with tabbed interface
 ├── components/
 │   ├── ui/                         # Reusable UI components
-│   └── mitr-ai/
+│   └── chat-ai/
 │       ├── enhanced-chat-interface.tsx    # Advanced chat with multimodal analysis
 │       └── health-dashboard.tsx           # Comprehensive health monitoring
 └── ai/
