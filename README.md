@@ -1,4 +1,4 @@
-# MITR AI - Comprehensive Therapeutic Companion
+# Comprehensive Therapeutic Companion
 
 A cutting-edge AI-powered therapeutic companion that integrates multimodal analysis, health monitoring, and empathetic conversation to provide comprehensive mental health support.
 
