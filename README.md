@@ -65,7 +65,6 @@ src/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd mitr-ai
    ```
 
 2. **Install dependencies**
